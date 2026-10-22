@@ -1,0 +1,6 @@
+[
+  "tests/test_api.py::test_get_samples",
+  "tests/test_api.py::test_health",
+  "tests/test_api.py::test_login_invalid",
+  "tests/test_api.py::test_root"
+]
